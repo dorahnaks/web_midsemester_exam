@@ -21,5 +21,15 @@
 3. == is used to check whether the value is the same while === checks whether the value and datatype are the same.
 
 4. An event is anything that is viewed in a browser.
+No. 4 example
+<body>
+    <button onclick="my_button()">Click Me</button>
+
+    <script>
+        function my_button() {
+            alert('You clicked the button');
+        }
+    </script>
+</body> 
     
 5. forEach executes a function for each element of an array while map is uses an existing array to create a new array. forEach and map is similar in a way that they are both array methods.
