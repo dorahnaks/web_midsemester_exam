@@ -22,6 +22,7 @@
 
 4. An event is anything that is viewed in a browser.
 No. 4 example
+
 <body>
     <button onclick="my_button()">Click Me</button>
 
